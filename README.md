@@ -68,7 +68,7 @@ I love building scalable web applications and learning new technologies every da
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=firasDevApp&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?organizations=firasabidli&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=firasDevApp&theme=react&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ I love building scalable web applications and learning new technologies every da
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?organizations=firasabidli&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=firasDevApp&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
 ---
@@ -84,8 +84,9 @@ I love building scalable web applications and learning new technologies every da
 ## ❤️ Thanks for visiting!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?organizations=firasabidli&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />  
+  <img src="https://komarev.com/ghpvc/?username=firasDevApp&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />  
   <br/>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 </p>
+
 
