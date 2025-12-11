@@ -1,6 +1,6 @@
 <!-- Custom Banner -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHGWN4dRIsxXA/profile-displaybackgroundimage-shrink_350_1400/B4DZnAaIKGGsAY-/0/1759869700205?e=1762992000&v=beta&t=3Hs3y5mC_5SimvJYw38HgTRmvwTDf6f4K8d0UvdD79M" alt="Firas Abidli Banner" width="100%" />
+  <img src="[https://media.licdn.com/dms/image/v2/D4D16AQHGWN4dRIsxXA/profile-displaybackgroundimage-shrink_350_1400/B4DZnAaIKGGsAY-/0/1759869700205?e=1762992000&v=beta&t=3Hs3y5mC_5SimvJYw38HgTRmvwTDf6f4K8d0UvdD79M"](https://media.licdn.com/dms/image/v2/D4D16AQHGWN4dRIsxXA/profile-displaybackgroundimage-shrink_350_1400/B4DZnAaIKGGsAY-/0/1759869700205?e=1767225600&v=beta&t=PP8r98RBvF3qxNbKN9B-k-M4BtXg_oiGnXxAIsimy7o) alt="Firas Abidli Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Firas Abidli</h1>
@@ -88,5 +88,6 @@ I love building scalable web applications and learning new technologies every da
   <br/>
   <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 </p>
+
 
 
